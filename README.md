@@ -3,7 +3,7 @@ BD663474 LCD library for PIC18F
 
 [Reference]<br>
 https://github.com/RainbowKiwiFOX/TFT_BD663474<br>
-https://github.com/martnak/STM32-ILI9341<br>q
+https://github.com/martnak/STM32-ILI9341<br>
 https://github.com/eziya/STM32_HAL_ILI9341<br>
 <br>
 [Tutorial]<br>
